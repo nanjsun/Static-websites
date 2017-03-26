@@ -1,0 +1,8 @@
+@charset "utf-8";
+body div img {
+	margin-right: 10px;
+	right: 10px;
+	width: 100px;
+	float: none;
+	clear: none;
+}
